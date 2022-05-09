@@ -1,11 +1,14 @@
-## 🐣 개발자 Uparupa입니다!
+# 🐣 개발자 김다빈입니다!
 
-이제 막 3년이 지난 프론트엔드 개발자에요!
+4년차 프론트엔드 개발자 Uparaupa에요!
 
-React와 Typescript를 주로 사용해요.
+*React*와 *Typescript*를 주로 사용해요.
 
 현재 직장과 학업(미융대 1학년)을 병행하고 있어요.
 
+가장 좋아하는건 우파루파 캐릭터고, 요즘 웹 성능 최적화에 관심이 많아요. 
+
+배우는 걸 정말 좋아합니다. 잘 부탁드려요! 🤾‍♂️
 
 
 ![Upa-r-upa's GitHub stats](https://github-readme-stats.vercel.app/api?username=upa-r-upa&show_icons=true&theme=radical)
