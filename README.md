@@ -10,6 +10,7 @@
 
 배우는 걸 정말 좋아합니다. 잘 부탁드려요! 🤾‍♂️
 
+- email: me@upa-r-upa.com
 
 ![Upa-r-upa's GitHub stats](https://github-readme-stats.vercel.app/api?username=upa-r-upa&show_icons=true&theme=radical)
 
