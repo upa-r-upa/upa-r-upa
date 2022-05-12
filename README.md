@@ -6,7 +6,10 @@
 
 ### 👻 ME!
 
-![Upa-r-upa's GitHub stats](https://github-readme-stats.vercel.app/api?username=upa-r-upa&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upa-r-upa&layout=compact)](https://github.com/upa-r-upa/github-readme-stats)
+
+![Upa-r-upa's GitHub stats](https://github-readme-stats.vercel.app/api?username=upa-r-upa&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upa-r-upa&layout=compact)](https://github.com/upa-r-upa/github-readme-stats)
 
 
 ### ⚔️ Skill
