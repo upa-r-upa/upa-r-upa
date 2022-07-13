@@ -13,7 +13,8 @@
 
 
 ### ⚔️ Skill
-- 작성중이에요!
+- React.js, Typescript, Javascript, Next.js, HTML, CSS, Python
+- Git, Notion, Jira, Slack
 
 ### 💎 -
 
