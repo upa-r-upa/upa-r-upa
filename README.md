@@ -13,8 +13,9 @@
 
 
 ### ⚔️ Skill
-- React.js, Typescript, Javascript, Next.js, HTML, CSS, Python
-- Git, Notion, Jira, Slack
+- Typescript, ES6, Python
+- ReactJS, NextJS, Electron, PWA, Redux, Mobx, SCSS, CSS-in-JS
+- Git, Agile
 
 ### 💎 -
 
