@@ -1,4 +1,7 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&text=%EA%B9%80%EB%8B%A4%EB%B9%88%20Da-Bin%20Kim&fontAlignY=45&fontAlign=18&fontSize=40&height=50&animation=twinkling&fontColor=ffffff)
+
+ ![transparent](https://capsule-render.vercel.app/api?type=transparent&text=%EA%B9%80%EB%8B%A4%EB%B9%88%20Da-Bin%20Kim&fontAlignY=45&fontAlign=18&fontSize=40&height=50&animation=twinkling&fontColor=ffffff) 
+ 
+<img style="width:100px" src="https://karameruland.com/wp/wp-content/uploads/2021/07/3403f15345623c2fbbc19054479100a5.png" />
 
 💻 FE Engineer  
 📬 me@upa-r-upa.com
