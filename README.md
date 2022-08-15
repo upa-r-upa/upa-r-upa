@@ -10,18 +10,9 @@
 <img style="width:100px" src="https://karameruland.com/wp/wp-content/uploads/2021/07/3403f15345623c2fbbc19054479100a5.png" />
 
 
-
-### 👻 ME!
-
-
-![Upa-r-upa's GitHub stats](https://github-readme-stats.vercel.app/api?username=upa-r-upa&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upa-r-upa&layout=compact)](https://github.com/upa-r-upa/github-readme-stats)
-
-
 ### ⚔️ Skill
-- Typescript, ES6, Python
-- ReactJS, NextJS, Electron, PWA, Redux, Mobx, SCSS, CSS-in-JS
+- Typescript, ES6
+- ReactJS, NextJS, Electron, Redux, Mobx, SCSS, CSS-in-JS
 - Git, Agile
 
 ### 💎 -
