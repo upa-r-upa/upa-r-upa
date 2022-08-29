@@ -12,8 +12,7 @@
 
 ### ⚔️ Skill
 - Typescript, ES6
-- ReactJS, NextJS, Electron, Redux, Mobx, SCSS, CSS-in-JS
-- Git, Agile
+- ReactJS, NextJS, Redux, Mobx, SCSS, CSS-in-JS
 
 ### 💎 -
 
