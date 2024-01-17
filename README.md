@@ -1,7 +1,7 @@
 
  ![transparent](https://capsule-render.vercel.app/api?type=transparent&text=%EA%B9%80%EB%8B%A4%EB%B9%88%20Da-Bin%20Kim&fontAlignY=45&fontAlign=18&fontSize=40&height=50&animation=twinkling&fontColor=ffffff) 
  
-💻 FE Engineer  
+💻 Engineer  
 📬 me@upa-r-upa.com    
 🏠 https://upa-r-upa.com
 
