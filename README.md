@@ -12,6 +12,6 @@
 ### ⚙️ Backend Skills
 - Python, FastAPI, sqlalchemy
 - pytest
-### ⚔️ Front Experience
+### ⚔️ Front Skills
 - Typescript, ES6
 - ReactJS, NextJS, Redux, Mobx, SCSS, CSS-in-JS
