@@ -1,4 +1,4 @@
-💻 Engineer  
+💻 Backend Engineer  
 📬 me@upa-r-upa.com    
 🏠 https://upa-r-upa.com
 
@@ -9,7 +9,9 @@
  
 <img style="width:100px" src="https://karameruland.com/wp/wp-content/uploads/2021/07/3403f15345623c2fbbc19054479100a5.png" />
 
-
-### ⚔️ Skill
+### ⚙️ Backend Skills
+- Python, FastAPI, sqlalchemy
+- pytest
+### ⚔️ Front Experience
 - Typescript, ES6
 - ReactJS, NextJS, Redux, Mobx, SCSS, CSS-in-JS
