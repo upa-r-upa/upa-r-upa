@@ -5,13 +5,5 @@
 안녕하세요. 우파루파가 좋아요. 
 
 오늘의 날씨는 맑음입니다. 
-
  
 <img style="width:100px" src="https://karameruland.com/wp/wp-content/uploads/2021/07/3403f15345623c2fbbc19054479100a5.png" />
-
-### ⚙️ Backend Skills
-- Python, FastAPI, sqlalchemy
-- pytest
-### ⚔️ Front Skills
-- Typescript, ES6
-- ReactJS, NextJS, Redux, Mobx, SCSS, CSS-in-JS
