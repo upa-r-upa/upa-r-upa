@@ -1,4 +1,4 @@
-💻 Backend Engineer  
+💻 Engineer  
 📬 me@upa-r-upa.com    
 🏠 https://upa-r-upa.com
 
